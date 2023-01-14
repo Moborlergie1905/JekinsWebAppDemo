@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JekinsWebAppSample", "JekinsWebAppSample\JekinsWebAppSample.csproj", "{2590D0A5-3463-4390-A199-8483AD6D23FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{90549816-BBC6-47EF-B8DB-A10577E8B3A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2590D0A5-3463-4390-A199-8483AD6D23FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2590D0A5-3463-4390-A199-8483AD6D23FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2590D0A5-3463-4390-A199-8483AD6D23FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90549816-BBC6-47EF-B8DB-A10577E8B3A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90549816-BBC6-47EF-B8DB-A10577E8B3A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90549816-BBC6-47EF-B8DB-A10577E8B3A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90549816-BBC6-47EF-B8DB-A10577E8B3A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
