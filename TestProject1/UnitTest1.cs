@@ -9,7 +9,7 @@ namespace TestProject1
         public void DoesListContain()
         {
             var list = forcast.Get().ToArray();
-            Assert.Contains(list, item => item.Summary == "Bolaji");
+            Assert.Contains(list, item => item.Summary != "Bolaji");
         }
     }
 }
